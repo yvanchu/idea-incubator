@@ -27,7 +27,7 @@ Planning to speed run this after the next iteration of BearRoom templates. Goal 
 
 ## Techstack 
 
-### (Fresh)[https://fresh.deno.dev] + Typescript
+### [Fresh](https://fresh.deno.dev) + Typescript
 Fast, simple, server-side rendered web techstack that uses some of the best modern web techstack just seems too cool for me to pass. Maybe I'll redo my sad WordPress-ported portfolio into this :think:
 
 ### GPT-3 and Dall-e
