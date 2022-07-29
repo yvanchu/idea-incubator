@@ -17,6 +17,8 @@ Can use the base code from [Wing](https://github.com/yvanchu/wing).
 
 Remember those survey apps that give you $5 for like 10 hours of work? What if we only use prediction questions (Do you think iPhone 13s will sell better than iPhone SE 2s by the end of the month?) and pay out in points that can be redeemed for a tiny bit of money? It'll just be variable rewards so maybe we can pass that as non-gambling apps too? Also pretty sure this idea exists and I just got it from some Instagram ads.
 
+Just kidding, it seems like ~~gambling~~ trading on real life events is already here on [Kalshi](https://kalshi.com).
+
 ### Location Tracking App with React Native or Native iOS App
 I spent two quarters working on the Collective Experience for Relationship Development project for Design, Technology, Research Lab at Northwestern. I've always said one day I'll rebuild the whole app to make it way better. 
 
