@@ -37,3 +37,6 @@ It's just so cool! Maybe something that
 
 ### PeerJs + Animations (not sure which techstack? or just simple CSS/JS?) for BearRoom games
 For the realtime board games, yknow?
+
+### next.JS
+Seems like it'll be a useful react tech stack to learn! Currently working on [Compativibes](https://github.com/joelyoshiya/compativibes)
