@@ -3,6 +3,15 @@ Collection of project ideas/techstack that I think are cool
 
 ## Project
 
+### Formulaic Onigiri (or 飯糰)
+I bought too much rice for this quarter in SF. Give me some easy rice ball recipes or formula to mealprep!
+
+### Whoscall for the US
+Why isn't this a thing? Whoscall is an app that tells you who might be calling you if it's an unknown number. I feel like this makes so much sense but whatever.
+
+### Reddit Sentiment Trading Bot
+Memes definitely drive retail investors to some extent. What's the best way to leverage this phenomenon? (1) Become a meme leader (or a pump and dump scammer?) and (2) become a super efficient trader based on meme patterns. I think (2) is definitely more feasible, but that could change once AI can generate memes and effectively control the whole world via memes. 
+
 ### Personal Energy Trainer
 Problem: I have workaholic tendencies that makes me decide to work having fun, but after almost every trip, date, or just a walk I feel more inspired, motivated, and can focus better.
 Solution: Some sort of smart system that can either create an environment to recover this "energy" or encourage me to do these energy recovery activities (probably meditation and walks or other easy tasks to boost productivity/creativity though)
