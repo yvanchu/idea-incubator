@@ -4,7 +4,7 @@ Collection of project ideas/techstack that I think are cool
 ## Project
 
 ### Formulaic Onigiri (or 飯糰)
-I bought too much rice for this quarter in SF. Give me some easy rice ball recipes or formula to mealprep!
+I bought too much rice for this quarter in SF. Give me some easy rice ball recipes or formula to mealprep! There must be some way to modularize and make onigiri more formulaic, like Chipotle for Burritos. 
 
 ### Whoscall for the US
 Why isn't this a thing? Whoscall is an app that tells you who might be calling you if it's an unknown number. I feel like this makes so much sense but whatever.
@@ -35,6 +35,12 @@ Honestly looking for the day that these features will be so easy to implement th
 
 ### BearRoom Avalon
 Planning to speed run this after the next iteration of BearRoom templates. Goal for the BearRoom template is to keep implementing a game like this to be under a week for a developer like me (college student w self-taught react exp)
+
+### 100Ads
+It's a leaderboard of people who've paid the most money to me. That's it. Each donor can attach an image during the donation process, and the highest single donation will have the top space on the website, the second highest will have the second, you get the idea. Idea credit goes to Dan Hu, a great friend.
+
+### Who am I?
+Ever wonder how much data websites can extract from you in a single "Agree" click? Come click on ours and find out ;)
 
 ## Techstack 
 
