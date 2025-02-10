@@ -42,6 +42,9 @@ It's a leaderboard of people who've paid the most money to me. That's it. Each d
 ### Who am I?
 Ever wonder how much data websites can extract from you in a single "Agree" click? Come click on ours and find out ;)
 
+### Poker game information aggregator
+Like poker atlas for Taiwan. Games are currently gated behind google map/facebook/thread searches plus a line groupchat. Not to mention the amount of dead links. An information aggregator will definitely make it easier for new players to discover poker games
+
 ## Techstack 
 
 ### [Fresh](https://fresh.deno.dev) + Typescript
